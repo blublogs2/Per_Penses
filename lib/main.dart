@@ -5,7 +5,7 @@ import 'models/transaction.dart';
 import 'package:personal_expenses/widgets/chart.dart';
 
 void main() {
-  runApp(Main());
+  runApp=>Main();
 }
 
 class Main extends StatelessWidget {
